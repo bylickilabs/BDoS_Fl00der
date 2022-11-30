@@ -1,5 +1,5 @@
-|BDoS_Fl00der|
-|---|
+|BDoS_Fl00der|![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|
+|---|---|---|
 ---
 > *** Command:*** ***python3 bdosflooder.py*** 
 > *** jump to Error Message***
